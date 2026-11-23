@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="nemo">
+  <schema id="org.cinnamon.nemo" path="/org/cinnamon/nemo/">
+    <key name="auto-close-trash" type="b">
+      <default>false</default>
+      <summary>Automatically close the Trash window after emptying</summary>
+      <description>Whether to automatically close the Trash window after the "Empty Trash" action is performed.</description>
+    </key>
+  </schema>
+</schemalist>
