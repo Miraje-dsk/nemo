@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <!-- Existing keys … -->
+
+  <!-- New key: automatically close Trash after emptying -->
+  <key name="auto-close-trash" type="b">
+    <default>false</default>
+    <summary>Automatically close the Trash window after emptying</summary>
+    <description>
+      When enabled, the Trash window is automatically closed after the user empties the trash.
+    </description>
+  </key>
+</schemalist>
